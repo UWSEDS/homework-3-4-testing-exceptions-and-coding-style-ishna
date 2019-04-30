@@ -1,0 +1,11 @@
+************* Module test_dataframe
+W: 53, 4: String statement has no effect (pointless-string-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.64/10 (previous run: 9.64/10, +0.00)
+
+
+
+#######
+Please note that these statements could not be removed because I had kept them as examples if tests had to be run individually without the unit test infrastructure.
+
